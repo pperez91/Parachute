@@ -12,4 +12,6 @@ Controle do tempo e de tarefas utilizando uma abordagem tanto tradicional com o 
 
 Documentação do projeto vai ser feita toda em markdown, um site em wordpress, redes sociais, cúrrículo formal, portfólio e manuais técnicos. Para a abordagem tradicional, irei implementar toda  a documentação do projeto utilizando o PMI. 
 
-A infraestrutura para isso vai rodar na núvem. 
+A infraestrutura para isso vai rodar na núvem. Principalmente AWS, também um lab de Linux e um de Windows. Um número de telefone para contato com internet e ligações ilimitadas. 
+
+Os Stakeholderes são, meus pais, minha mulher e filha, meu círculo familiar, meus amigos, e por último toda a comunidade que pode ser benefíciada por tudo isso. Mostro a vocês quem sou, e vou sendo como posso. Jogando meu corpo no mundo, e tentando andar por todos os cantos. 
